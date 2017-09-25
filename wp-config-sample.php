@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
- define('AUTH_KEY',         '');
- define('SECURE_AUTH_KEY',  '');
- define('LOGGED_IN_KEY',    '');
- define('NONCE_KEY',        '');
- define('AUTH_SALT',        '');
- define('SECURE_AUTH_SALT', '');
- define('LOGGED_IN_SALT',   '');
- define('NONCE_SALT',       '');
+ define('AUTH_KEY',         'filler');
+ define('SECURE_AUTH_KEY',  'filler');
+ define('LOGGED_IN_KEY',    'filler');
+ define('NONCE_KEY',        'filler');
+ define('AUTH_SALT',        'filler');
+ define('SECURE_AUTH_SALT', 'filler');
+ define('LOGGED_IN_SALT',   'filler');
+ define('NONCE_SALT',       'filler');
 
 /**#@-*/
 
